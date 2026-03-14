@@ -1,6 +1,7 @@
 {
-  "require": {
-    "guzzlehttp/guzzle": "^7.0"
-  }
+  "name": "yourusername/my-php-project",
+  "description": "Simple PHP project",
+  "require": {}
+
 }
 
