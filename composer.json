@@ -1,6 +1,10 @@
 {
-  "name": "yourusername/my-php-project",
-  "description": "Simple PHP project",
-  "require": {}
+  "name": "ml/hate-speech-detection",
+  "description": "Hate Speech Detection Project (Python)",
+  "type": "project",
+  "license": "MIT",
+  "scripts": {
+    "run": "python FinalPythonHateSpeechCode.ipynb"
+  }
 }
 
